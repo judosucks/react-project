@@ -1,4 +1,4 @@
-function ServicePage() {
+function ShopPage() {
     return (
         <div>
             <h1>About Page</h1>
@@ -6,4 +6,4 @@ function ServicePage() {
         </div>
     );
 }
-export default ServicePage;
+export default ShopPage;
